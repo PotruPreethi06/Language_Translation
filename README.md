@@ -41,5 +41,6 @@ Enter text, choose languages, translate, copy, or listen to the translated outpu
 
 📌 Outcome:
 Successfully developed a desktop-based translation system with translation, copy, and speech features, enhancing multilingual communication and accessibility.
+<img width="606" height="621" alt="image" src="https://github.com/user-attachments/assets/e3d6de90-c52f-4916-8bb2-8e83d3ad8059" />
 
-Fast and interactive translation experience.<img width="780" height="352" alt="01b84cf4-d4f4-424f-8aad-259a8ab8cbb81some_image" src="https://github.com/user-attachments/assets/d1e53c32-2e97-4ec8-b085-de12a20aa1fe" />
+
