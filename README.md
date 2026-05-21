@@ -8,8 +8,6 @@ User-friendly GUI built with Tkinter
 Source and target language selection
 Copy translated text with one click
 Text-to-speech functionality for translated output
-Fast and interactive translation experience.
-
 
 🛠️ Technologies Used:
 Python
@@ -43,3 +41,5 @@ Enter text, choose languages, translate, copy, or listen to the translated outpu
 
 📌 Outcome:
 Successfully developed a desktop-based translation system with translation, copy, and speech features, enhancing multilingual communication and accessibility.
+
+Fast and interactive translation experience.<img width="780" height="352" alt="01b84cf4-d4f4-424f-8aad-259a8ab8cbb81some_image" src="https://github.com/user-attachments/assets/d1e53c32-2e97-4ec8-b085-de12a20aa1fe" />
